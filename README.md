@@ -1,1 +1,1 @@
-# estudosAngular
+# estudosAngular - Aplicações desenvolvidas em angular para estudos.
