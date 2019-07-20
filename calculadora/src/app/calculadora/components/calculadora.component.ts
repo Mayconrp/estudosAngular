@@ -10,10 +10,6 @@ export class CalculadoraComponent implements OnInit {
 
   constructor(private calculadoraService: CalculadoraService) { }
 
-
-
-
-  
   /* usar o ngOnInit() quando for inicializar algo mais pesado que possa impactar 
    a inicialização do objeto ex: consultar base de dados, acesso remoto ou consultar servidor
    externo */
