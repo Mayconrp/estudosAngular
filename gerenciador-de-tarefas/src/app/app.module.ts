@@ -6,7 +6,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { TarefasModule } from './tarefas';
 
 @NgModule({
-  declarations: [
+  declarations: [ 
     AppComponent
   ],
   imports: [
